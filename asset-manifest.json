@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/patlu29/static/css/main.2483e409.css",
+    "main.js": "/patlu29/static/js/main.dd211805.js",
+    "static/js/453.4dd8ebec.chunk.js": "/patlu29/static/js/453.4dd8ebec.chunk.js",
+    "index.html": "/patlu29/index.html",
+    "main.2483e409.css.map": "/patlu29/static/css/main.2483e409.css.map",
+    "main.dd211805.js.map": "/patlu29/static/js/main.dd211805.js.map",
+    "453.4dd8ebec.chunk.js.map": "/patlu29/static/js/453.4dd8ebec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2483e409.css",
+    "static/js/main.dd211805.js"
+  ]
+}
