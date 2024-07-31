@@ -1,0 +1,19 @@
+.stop-watch { 
+    height: 50vh; 
+    width: 23vw; 
+    border-radius: 50px;
+    background-color: transparent;
+    backdrop-filter: blur(5px);
+    display: flex; 
+    flex-direction: column; 
+    justify-content: space-between; 
+    border: 2px solid white;
+    margin-left: 40%;
+    box-shadow: 0 0 5px whitesmoke, 0 0 25px whitesmoke;
+    } 
+.head{
+    margin-top: 100px;
+    margin-left: 40%;
+    color: white;
+    text-shadow: 0 0 5px white;
+}
